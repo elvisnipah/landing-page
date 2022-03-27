@@ -56,6 +56,7 @@ button {
     border-radius: 5px;
     padding: 5px 20px;
     border: 1px solid #3882f6;
+    font-weight: bold;
 }
 
 .right-side {

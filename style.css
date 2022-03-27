@@ -117,7 +117,6 @@ img {
     font-weight: lighter;
     font-weight: 10;
     width: 800px;
-    
 }
 
 .quote-author {
@@ -127,8 +126,40 @@ img {
     width: 500px;
 }
 
+.call-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} 
+.call-to-action {
+    display: flex;
+    background-color: #3882f6;
+    margin: 80px 80px;
+    justify-content: space-around;
+    padding: 50px;
+    width: 900px;
+    border-radius: 10px;
+}
+
+.call-to-action .left-side {
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.btm-btn .sign-up {
+    border: 1px solid white;
+}
+
 .footer {
     background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
 }
 
 ul {
